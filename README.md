@@ -44,4 +44,4 @@ Here are some ideas to get you started:
 
 #### 🌱&nbsp;&nbsp;I’m learning from this.
 - [inflearn](https://github.com/kgc0120/I-Learned/blob/main/inflearn.md)
-- [zero-base](https://github.com/kgc0120/I-Learned/blob/main/inflearn.md)
+- [zero-base](https://github.com/kgc0120/I-Learned/blob/main/zero-base)

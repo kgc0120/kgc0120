@@ -1,4 +1,4 @@
-### Hi GyuCheol Git 👋
+## Hi GyuCheol Git 👋
 
 <!--
 **kgc0120/kgc0120** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-### Tech Stack
+## Tech Stack
 <!-- <a href="[연결할 링크]" target="_blank"><img src="https://img.shields.io/badge/[쓰고 싶은 텍스트]-[컬러 코드]?style=flat-square&logo=[브랜드 이름]&logoColor=white"/></a> -->
 <!-- https://simpleicons.org/?q=ORACL 기술 스택 아이콘 사이트-->
 <h3>Language</h3>

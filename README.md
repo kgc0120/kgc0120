@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 <!-- https://simpleicons.org/?q=ORACL 기술 스택 아이콘 사이트-->
 <h3>Language</h3>
 <span>
-  <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JAVA-007396?style=flat-square&logo=JAVA&logoColor=white"/>
   <img src="https://img.shields.io/badge/Javascript-F7DF1E?style=flat-square&logo=Javascript&logoColor=white"/>
 </span>
 <h3>Framework</h3>

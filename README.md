@@ -24,10 +24,12 @@ Here are some ideas to get you started:
 <h3>Framework</h3>
 <img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=flat-square&logo=SpringBoot&logoColor=white"/>
 <h3>Database</h3>
-<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/>
-<img src="https://img.shields.io/badge/Oracle-F80000?style=flat-square&logo=Oracle&logoColor=white"/>
-<img src="https://img.shields.io/badge/Postgresql-F80000?style=flat-square&logo=Oracle&logoColor=white"/>
-<img src="https://img.shields.io/badge/Mssql-F80000?style=flat-square&logo=Oracle&logoColor=white"/>
+<span>
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Oracle-F80000?style=flat-square&logo=Oracle&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Postgresql-F80000?style=flat-square&logo=Postgresql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Mssql-F80000?style=flat-square&logo=Mssql&logoColor=white"/>
+</span>
 
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
 

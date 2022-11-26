@@ -28,6 +28,7 @@ Here are some ideas to get you started:
 <h3>Database</h3>
 <span>
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MariaDB-4479A1?style=flat-square&logo=MySQL&logoColor=#003545"/>
   <img src="https://img.shields.io/badge/Oracle-F80000?style=flat-square&logo=Oracle&logoColor=white"/>
   <img src="https://img.shields.io/badge/Postgresql-4479A1?style=flat-square&logo=Postgresql&logoColor=white"/>
   <img src="https://img.shields.io/badge/MS SQL-F7DF1E?style=flat-square&logo=MS SQL&logoColor=white"/>

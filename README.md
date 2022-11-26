@@ -31,7 +31,7 @@ Here are some ideas to get you started:
   <img src="https://img.shields.io/badge/MariaDB-003545?style=flat-square&logo=MySQL&logoColor=white"/>
   <img src="https://img.shields.io/badge/Oracle-F80000?style=flat-square&logo=Oracle&logoColor=white"/>
   <img src="https://img.shields.io/badge/Postgresql-4479A1?style=flat-square&logo=Postgresql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/MS SQL-F7DF1E?style=flat-square&logo=MS SQL&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Microsoft SQL Server-CC2927?style=flat-square&logo=MS SQL&logoColor=white"/>
 </span>
 
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)

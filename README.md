@@ -45,3 +45,6 @@ Here are some ideas to get you started:
 #### 🌱&nbsp;&nbsp;I’m learning from this.
 - [inflearn](https://github.com/kgc0120/I-Learned/blob/main/inflearn.md)
 - [zero-base](https://github.com/kgc0120/I-Learned/blob/main/zero-base.md)
+
+### Certification
+<a href="https://www.credly.com/badges/1eb9a040-948b-4327-ac64-521b1bdbd9c6/public_url"><img src="https://images.credly.com/size/220x220/images/0e284c3f-5164-4b21-8660-0d84737941bc/image.png" width="100"></a>
